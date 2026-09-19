@@ -47,14 +47,14 @@ Software Used: Python 3 with `pandas`, `numpy`, `scikit-learn`,
 needs no separate install, it's part of Python's standard library.
 
 
-**"Why SQL instead of just pandas?"**
+## Why SQL instead of just pandas?
 Both would work at this data size. SQL is the more honest answer for
 what actually happens with data at scale: it's the standard interface
 for querying data warehouses, and doing the aggregation as a `GROUP BY`
 query rather than a pandas groupby is closer to how that work looks in
 a real pipeline.
 
-**"Why a simple linear regression instead of a more advanced model?"**
+## Why a simple linear regression instead of a more advanced model?
 Because it's fully explainable. A linear trend per country/pathogen
 tells you exactly what it's doing: fitting the straight line that best
 matches recent years, then extending it one year forward. That's a
@@ -63,7 +63,7 @@ a first version than a more accurate model you can't fully explain. The
 model requires at least 5 years of data before it fits a trend at all,
 since several countries have gaps.
 
-**"What did I find?"**
+## What did I find?
 Carbapenem-resistant K. pneumoniae is the clearest and most concerning
 trend: Bulgaria's rate hit 67.6% in 2024, up from near zero in 2005, and
 Greece has held above 60% since 2020. The scale of that trend is worth
@@ -73,7 +73,7 @@ country is climbing by less than half a point a year. MRSA overall has
 actually been declining across Europe since a 2004 peak. Same dataset,
 same method, two pathogens moving in opposite directions.
 
-**"What would I do next?"**
+## What would I do next?
 Two things: swap the linear regression for something that handles
 non-linear jumps better, like ARIMA, since several of these trends
 accelerate rather than move in a straight line. And extend the
