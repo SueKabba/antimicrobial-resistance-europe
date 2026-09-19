@@ -95,6 +95,3 @@ same thing:
   24-year period
 - A bar chart ranking the same six pairs by how fast they're rising
 
-## Publishing
-
-Push this folder to `github.com/SueKabba`.
