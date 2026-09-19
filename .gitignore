@@ -1,0 +1,4 @@
+data/raw/
+data/cleaned_resistance_data.csv 
+amr.db
+.DS_Store

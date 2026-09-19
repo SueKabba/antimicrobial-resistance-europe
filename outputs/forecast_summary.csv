@@ -1,0 +1,91 @@
+country,pathogen_antibiotic,years_of_data,latest_year,latest_resistance_pct,predicted_next_year,predicted_resistance_pct,trend_pct_per_year
+Bulgaria,Klebsiella pneumoniae - Carbapenems,20,2024,67.6,2025,50.3,3.25
+Romania,Klebsiella pneumoniae - Carbapenems,15,2024,50.26,2025,57.26,3.12
+Greece,Klebsiella pneumoniae - Carbapenems,20,2024,60.24,2025,76.87,1.89
+Cyprus,Klebsiella pneumoniae - Carbapenems,19,2024,48.46,2025,34.35,1.75
+Croatia,Klebsiella pneumoniae - Carbapenems,19,2024,31.33,2025,24.86,1.63
+Italy,Klebsiella pneumoniae - Carbapenems,19,2024,23.96,2025,36.34,1.38
+Poland,Klebsiella pneumoniae - Carbapenems,17,2024,18.85,2025,17.52,1.2
+Slovakia,Klebsiella pneumoniae - Carbapenems,14,2024,13.12,2025,13.86,1.02
+Portugal,Klebsiella pneumoniae - Carbapenems,18,2024,12.52,2025,14.52,0.91
+Slovakia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",19,2024,9.29,2025,17.01,0.55
+Croatia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",23,2024,9.56,2025,11.14,0.52
+Greece,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",25,2024,12.72,2025,14.08,0.51
+Poland,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,8.93,2025,11.21,0.49
+Latvia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",19,2024,18.15,2025,13.21,0.49
+Slovakia,Staphylococcus aureus - Meticillin (MRSA),19,2024,19.26,2025,27.8,0.47
+Italy,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",23,2024,10.54,2025,14.01,0.42
+Hungary,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,7.83,2025,12.16,0.41
+Cyprus,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",21,2024,12.75,2025,15.17,0.41
+Malta,Klebsiella pneumoniae - Carbapenems,19,2024,2.84,2025,8.73,0.39
+Bulgaria,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,10.71,2025,19.33,0.38
+Spain,Klebsiella pneumoniae - Carbapenems,20,2024,5.34,2025,5.91,0.34
+Latvia,Klebsiella pneumoniae - Carbapenems,19,2024,9.94,2025,4.44,0.28
+Malta,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,21.7,2025,10.49,0.28
+Czechia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,4.78,2025,7.35,0.28
+Spain,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,6.07,2025,7.74,0.27
+Lithuania,Klebsiella pneumoniae - Carbapenems,18,2024,9.52,2025,3.96,0.27
+Hungary,Staphylococcus aureus - Meticillin (MRSA),24,2024,17.29,2025,24.33,0.25
+United Kingdom,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",19,2019,4.7,2020,5.52,0.23
+Lithuania,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",19,2024,6.64,2025,6.3,0.23
+Ireland,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",23,2024,3.84,2025,5.8,0.21
+Iceland,Staphylococcus aureus - Meticillin (MRSA),25,2024,5.59,2025,4.02,0.18
+Hungary,Klebsiella pneumoniae - Carbapenems,20,2024,6.73,2025,3.68,0.18
+Slovenia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,3.22,2025,5.69,0.18
+Iceland,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,4.14,2025,3.21,0.16
+Luxembourg,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,2.67,2025,4.54,0.15
+Slovenia,Klebsiella pneumoniae - Carbapenems,20,2024,3.69,2025,2.1,0.13
+Belgium,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,2.85,2025,3.55,0.13
+France,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",22,2024,2.84,2025,4.05,0.13
+Estonia,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,2.82,2025,3.49,0.13
+Sweden,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",23,2024,2.54,2025,2.97,0.12
+Czechia,Staphylococcus aureus - Meticillin (MRSA),25,2024,9.26,2025,12.68,0.12
+Netherlands,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",25,2024,2.36,2025,2.81,0.1
+Belgium,Klebsiella pneumoniae - Carbapenems,16,2024,1.88,2025,1.97,0.1
+Germany,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",25,2024,2.03,2025,3.52,0.1
+Luxembourg,Klebsiella pneumoniae - Carbapenems,16,2024,0.74,2025,1.48,0.09
+Portugal,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,6.79,2025,7.39,0.09
+Austria,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,2.5,2025,3.26,0.09
+Norway,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",25,2024,1.51,2025,2.29,0.08
+Austria,Klebsiella pneumoniae - Carbapenems,20,2024,1.48,2025,1.55,0.08
+Czechia,Klebsiella pneumoniae - Carbapenems,19,2024,2.16,2025,1.35,0.08
+Estonia,Klebsiella pneumoniae - Carbapenems,20,2024,1.7,2025,1.29,0.07
+Finland,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",24,2024,1.82,2025,2.67,0.07
+Sweden,Staphylococcus aureus - Meticillin (MRSA),24,2024,2.6,2025,2.17,0.07
+Norway,Staphylococcus aureus - Meticillin (MRSA),25,2024,2.06,2025,1.6,0.06
+France,Klebsiella pneumoniae - Carbapenems,19,2024,1.21,2025,1.08,0.06
+Denmark,Staphylococcus aureus - Meticillin (MRSA),25,2024,1.87,2025,2.2,0.05
+Finland,Staphylococcus aureus - Meticillin (MRSA),25,2024,3.71,2025,2.95,0.05
+Netherlands,Staphylococcus aureus - Meticillin (MRSA),25,2024,2.02,2025,1.85,0.04
+Denmark,Klebsiella pneumoniae - Carbapenems,19,2024,0.44,2025,0.56,0.03
+Ireland,Klebsiella pneumoniae - Carbapenems,20,2024,0.2,2025,0.67,0.03
+Sweden,Klebsiella pneumoniae - Carbapenems,17,2024,0.52,2025,0.35,0.02
+Germany,Klebsiella pneumoniae - Carbapenems,20,2024,1.24,2025,0.79,0.02
+United Kingdom,Klebsiella pneumoniae - Carbapenems,15,2019,0.66,2020,0.65,0.02
+Netherlands,Klebsiella pneumoniae - Carbapenems,20,2024,0.77,2025,0.46,0.02
+Finland,Klebsiella pneumoniae - Carbapenems,20,2024,0.23,2025,0.23,0.01
+Norway,Klebsiella pneumoniae - Carbapenems,20,2024,0.78,2025,0.28,0.0
+Denmark,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",20,2024,1.18,2025,1.76,0.0
+Iceland,Klebsiella pneumoniae - Carbapenems,9,2024,0.0,2025,0.0,0.0
+Spain,Staphylococcus aureus - Meticillin (MRSA),25,2024,23.69,2025,24.29,-0.05
+Estonia,Staphylococcus aureus - Meticillin (MRSA),24,2024,3.39,2025,2.52,-0.07
+Lithuania,Staphylococcus aureus - Meticillin (MRSA),19,2024,10.01,2025,8.77,-0.08
+Cyprus,Staphylococcus aureus - Meticillin (MRSA),22,2024,45.96,2025,40.48,-0.21
+Romania,Staphylococcus aureus - Meticillin (MRSA),23,2024,36.83,2025,43.38,-0.25
+Greece,Staphylococcus aureus - Meticillin (MRSA),25,2024,40.54,2025,37.69,-0.26
+Slovenia,Staphylococcus aureus - Meticillin (MRSA),25,2024,8.7,2025,7.33,-0.26
+Poland,Staphylococcus aureus - Meticillin (MRSA),24,2024,10.75,2025,13.16,-0.28
+Romania,"Escherichia coli - Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",23,2024,7.12,2025,6.95,-0.29
+Croatia,Staphylococcus aureus - Meticillin (MRSA),23,2024,29.81,2025,25.58,-0.37
+Austria,Staphylococcus aureus - Meticillin (MRSA),25,2024,5.35,2025,2.77,-0.44
+Italy,Staphylococcus aureus - Meticillin (MRSA),25,2024,25.7,2025,28.56,-0.51
+Portugal,Staphylococcus aureus - Meticillin (MRSA),25,2024,23.81,2025,32.55,-0.62
+Latvia,Staphylococcus aureus - Meticillin (MRSA),21,2024,6.93,2025,2.56,-0.65
+Luxembourg,Staphylococcus aureus - Meticillin (MRSA),25,2024,5.13,2025,3.64,-0.66
+Germany,Staphylococcus aureus - Meticillin (MRSA),25,2024,4.24,2025,4.17,-0.68
+Bulgaria,Staphylococcus aureus - Meticillin (MRSA),25,2024,10.94,2025,8.9,-0.88
+France,Staphylococcus aureus - Meticillin (MRSA),23,2024,9.91,2025,5.76,-1.08
+Belgium,Staphylococcus aureus - Meticillin (MRSA),25,2024,7.44,2025,2.38,-1.09
+Malta,Staphylococcus aureus - Meticillin (MRSA),25,2024,15.24,2025,21.92,-1.5
+Ireland,Staphylococcus aureus - Meticillin (MRSA),25,2024,11.04,2025,3.66,-1.64
+United Kingdom,Staphylococcus aureus - Meticillin (MRSA),20,2019,5.88,2020,0.0,-2.59
